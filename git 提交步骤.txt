@@ -1,0 +1,8 @@
+git config --global user.name guichengwu
+git config --global user.email guichengwu@foxmail.com
+git add .
+git init
+git commit -m "first commit"
+git remote add origin https://github.com/guichengwu/Leetcode.git
+git push -u origin master
+ ‰»Î username: guichengwu √‹¬Î: Wu230703
