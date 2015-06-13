@@ -6,3 +6,8 @@ git commit -m "first commit"
 git remote add origin https://github.com/guichengwu/Leetcode.git
 git push -u origin master
 输入 username: guichengwu 密码: Wu230703
+
+提交修改
+git add .
+git commit -m "first commit"
+git push -u origin master
